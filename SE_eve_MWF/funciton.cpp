@@ -33,5 +33,13 @@
 	
 	- increadse code resuability
 	- give structure to your programe
-
+	
+	
+	>>Categories Of a Function:
+	
+	- without return_type & without parameter 
+	- without return_type & with parameter 
+	- with return_type & with parameter 
+	- with return_type & without parameter 
+	
 */
