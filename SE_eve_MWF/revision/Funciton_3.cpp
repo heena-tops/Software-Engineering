@@ -2,9 +2,10 @@
 #include<stdio.h>
 
 //funciton declaration & Defination
-void my_function(int x)
+void my_function(int num) //formal parameters
 {
-	if(x%2==0)
+	int add;
+	if(num%2==0)
 	{
 		printf("Even");
 	}
@@ -22,7 +23,7 @@ int main()
 	scanf("%d",&num);
 	
 	//Funciton Calling
-	my_function(num);
+	my_function(num); // actual parameters
 	
 	return 0;
 }

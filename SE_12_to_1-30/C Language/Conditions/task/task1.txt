@@ -1,0 +1,4 @@
+take user input for 3 subjects from user
+find percentage of the student
+
+based on percentage assign GRADE to the student
