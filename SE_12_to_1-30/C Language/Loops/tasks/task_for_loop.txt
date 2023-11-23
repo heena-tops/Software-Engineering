@@ -1,0 +1,39 @@
+task : 1>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+print below using simple for loop
+
+1) Hello 
+2) Hello
+3) Hello
+... 
+10) Hello 
+
+task : 2>>>>>>>>>>>>>>>>>>>>>
+
+take 10 time number input from user
+
+task : 3 (using for loop)>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+take number input from user & table for it 
+
+Enter number : 2
+
+Table of : 2
+
+2 * 1 = 2
+2 * 2 = 4
+2 * 3 = 6
+..
+2 * 10 = 20
+
+
+task : 4>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+take 10 numbers from user and find 
+
+
+how many even numbers are there
+how many odd numbers 
+
+sum of all even numbers
+sum of all odd numbers 

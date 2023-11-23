@@ -1,16 +1,17 @@
-#include <stdio.h>
+#include<stdio.h>
 
 int main()
 {
-	char ch;
     bool status=true;
-   
-    do
+    char ch;
+    
+    while(status)
     {
-        printf("HEy I'm here \n");
+        printf("Hey in loop\n");
         
+        fflush(stdin);
         printf("Wanna continue ? ['y/n'] : ");
-        scanf("%d",&ch);
+        scanf("%c",&ch);
         
         if(ch=='y' || ch=='Y')
         {
@@ -21,7 +22,7 @@ int main()
             status=false;
         }
         
-    }while(status);
+    }
     
 
     return 0;

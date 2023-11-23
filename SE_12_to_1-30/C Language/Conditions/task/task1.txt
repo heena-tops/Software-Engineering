@@ -1,3 +1,22 @@
+task : 1 (using ladder)
+
+take user input for 3 subjects from user
+find percentage of the student
+
+based on percentage assign GRADE to the student
+
+
+task : 2
+
+take year input from user and find that the year is leap year or not ?
+
+task : 3
+
+take alphabet from user and find is it vowel or consopnant
+
+
+task : 4 (switch case)
+
 take user input for 3 subjects from user
 find percentage of the student
 
