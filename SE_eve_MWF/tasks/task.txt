@@ -1,0 +1,14 @@
+
+task :1
+num = 123443
+
+ans = digit_addition
+
+
+task : 2
+
+array based
+
+num : 451265
+
+array = {9,11,3}
