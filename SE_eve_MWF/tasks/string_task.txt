@@ -1,0 +1,18 @@
+string tasks : 
+
+task : 1
+
+WAP to find characters & white spaces from string
+
+task : 2
+
+WAP to find no. of characters, digits and spaces from string
+
+task : 3
+
+find voewl count and consonants count from string
+
+task : 4
+
+find how many upper case letter and lower case letters are there in string
+
