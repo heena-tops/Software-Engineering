@@ -1,0 +1,8 @@
+task : 1 
+WAP to print 10 to 1 usinig recursion
+
+task : 2 : use recursion
+
+enter no between 1 and 50 : 34
+
+ans = give addition from 34 to 50
