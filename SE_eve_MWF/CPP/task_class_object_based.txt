@@ -1,0 +1,29 @@
+============Popular Destinations=============
+
+	1. Ahmedabad
+	2. Rajkot
+	...
+	10.....
+
+Do You want Signup in our App ['y/n'] : 
+
+if no 
+print Thank You
+
+else
+go for registration process
+
+==============User Registration==============
+
+
+Enter name : 
+Enter Email : 	
+Enter password : 
+Enter Confirm Password : 
+
+if pswd & cpswd will match then go for login 
+else then repeate registration process
+
+=================User Login==================
+
+welcome to login
